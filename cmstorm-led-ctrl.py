@@ -1,4 +1,3 @@
-#!/bin/python3
 from gi.repository import Gtk as gtk
 from gi.repository import AppIndicator3 as appindicator
 from subprocess import call
