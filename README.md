@@ -16,9 +16,16 @@ My frustration eventually resulted in me creating this simple helper app that al
 - Ubuntu Linux 14.04 LTS
 - Unity, Gnome, or other GTK-based Desktop Environment.
 
+# Installation
+
+# Usage
+
 # Reference 
+Linux:
 - http://www.tomshardware.com/answers/id-2611456/turn-storm-devastator-leds.html
 - http://community.coolermaster.com/index.php/topic/11526-is-cm-storm-devastator-led-gaming-keyboard-compatible-with-linux/
 - https://answers.launchpad.net/ubuntu/+source/linux/+question/241299
 - http://blog.rumyhub.com/post/2015/01/31/ubuntu-fixing-cm-storm-devastator-keyboard-backlight-button.aspx
 - http://ubuntuforums.org/showthread.php?t=2208222
+Python:
+- 
