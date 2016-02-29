@@ -12,7 +12,7 @@ My frustration eventually resulted in me creating this simple helper app that al
 
 # Screenshots
 <p align="center">
-<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/CMStormDevastator.png">
+<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/Screenshot.png">
 </p>
 # Requirements
 - Cooler Master CMStorm Devastator Keyboard
