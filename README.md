@@ -1,7 +1,7 @@
 # CMStorm-KeyboardControl
 A simple application to control the Cooler Master CM Storm Devastator LEDs via the System Tray in Ubuntu Linux.
 <p align="center">
-![alt tag](https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/CMStormDevastator.png)
+<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/CMStormDevastator.png">
 </p>
 # About
 In late 2015 I picked up the CM Storm Devastator Gaming Keyboard/Mouse Combo that was on sale.  It's a great keyboard, however the Scroll Lock button, which also turns on the the LED backlit keys, doesn't work in Ubuntu 14.04 LTS (which I am currently using).  
