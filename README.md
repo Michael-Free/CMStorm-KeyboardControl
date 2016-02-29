@@ -18,7 +18,7 @@ My frustration eventually resulted in me creating this simple helper app that al
 
 # Installation
 
-# Usage
+# Usage 
 
 # Reference 
 
