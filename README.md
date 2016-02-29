@@ -32,3 +32,5 @@ My frustration eventually resulted in me creating this simple helper app that al
 - http://ubuntuforums.org/showthread.php?t=2208222
 
 # Donate
+
+Bitcoin - 16p3FCa8CmhxSo3Vg2qPpznEC5He1kZHtt
