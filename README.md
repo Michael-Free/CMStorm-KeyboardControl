@@ -11,7 +11,9 @@ After doing some searching I found some solutions - but most seemed to be a bit 
 My frustration eventually resulted in me creating this simple helper app that allows a user to control their keyboard lighting in the Ubuntu Unity system tray (and other GTK-based environments). 
 
 # Screenshots
-
+<p align="center">
+<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/CMStormDevastator.png">
+</p>
 # Requirements
 - Cooler Master CMStorm Devastator Keyboard
 - Python 3.4+
