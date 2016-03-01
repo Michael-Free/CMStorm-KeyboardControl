@@ -28,9 +28,10 @@ My frustration eventually resulted in me creating this simple helper app that al
 - Bitcoin - 16p3FCa8CmhxSo3Vg2qPpznEC5He1kZHtt
 
 # License
+<p align="center">
 <img src="http://www.gnu.org/graphics/heckert_gnu.small.png"><br>
 The license to this software is governed directly by the <a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3.0 License</a>.
-
+</p>
 # Reference 
 - http://www.tomshardware.com/answers/id-2611456/turn-storm-devastator-leds.html
 - http://community.coolermaster.com/index.php/topic/11526-is-cm-storm-devastator-led-gaming-keyboard-compatible-with-linux/
