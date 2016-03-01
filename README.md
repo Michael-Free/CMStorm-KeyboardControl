@@ -23,8 +23,9 @@ My frustration eventually resulted in me creating this simple helper app that al
 # Installation
 If you already don't have python 3+, you need to install it as this is all it has been tested on.
 
-## Building requirements
-  $ sudo apt-get install python3
+## Building reccommended requirements
+    $ sudo apt-get install python3
+    $ sudo apt-get install python3-pip
 
 # Usage 
 
