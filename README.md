@@ -21,8 +21,6 @@ My frustration eventually resulted in me creating this simple helper app that al
 - Unity, Gnome, or other GTK-based Desktop Environment.
 
 # Installation
-If you already don't have python 3+, you need to install it as this is all it has been tested on.
-
 ## Building reccommended requirements 
 
     $ sudo apt-get install python3
