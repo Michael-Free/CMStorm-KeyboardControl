@@ -53,7 +53,19 @@ If all goes well you should see an icon that looks like an LED in your system tr
 #### Install/Download
 Select the "Download ZIP" button at the top right of this page (http://cmstorm.michaelfree.net/) and Save the Zip file to the fold of your choice.  Once it is downloaded unzip the file:
 
-    $ unzip CMStorm-KeyboardControl.zip -d destination_folder
+    $ unzip CMStorm-KeyboardControl-master.zip
+    $ cd CMStorm-KeyboardControl-master
+    $ chmod +x cmstorm-led-ctrl.py
+
+#### Test/Call CMStorm-KeyboardControl from Terminal
+
+    $ python3 cmstorm-led-ctrl.py 
+
+If all goes well you should see an icon that looks like an LED in your system tray. Click it and Toggle the On/Off Options and Select "Quit."
+
+<p align="center">
+<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/Screenshot.png">
+</p>
 
 # Usage 
 
