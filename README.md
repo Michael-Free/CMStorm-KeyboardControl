@@ -28,6 +28,7 @@ My frustration eventually resulted in me creating this simple helper app that al
 - Bitcoin - 16p3FCa8CmhxSo3Vg2qPpznEC5He1kZHtt
 
 # License
+<img src="http://www.gnu.org/graphics/heckert_gnu.small.png"><br>
 The license to this particular piece of software is governed directly by the <a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3.0 License</a>.
 
 # Reference 
