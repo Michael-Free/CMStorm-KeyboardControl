@@ -31,20 +31,20 @@ Please note that most of these dependencies are already met with a typical pytho
     $ sudo pip install gtk
     $ sudo pip install gi
     $ sudo pip install subprocess
-## Method 1 - git
+### Method 1 - git
 
     $ git clone https://github.com/Michael-Free/CMStorm-KeyboardControl.git
     $ cd CMStorm-KeyboardControl
     $ chmod +x cmstorm-led-ctrl.py
 
-### Test/Call CMStorm-KeyboardControl from Terminal
+#### Test/Call CMStorm-KeyboardControl from Terminal
 
     $ python3 cmstorm-led-ctrl.py 
 
-If all goes well you should see an icon that looks like an LED in your system tray.
-
-Click the 
-
+If all goes well you should see an icon that looks like an LED in your system tray. Click it and Toggle the On/Off Options and Select "Quit"
+<p align="center">
+<img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/Screenshot.png">
+</p>
 
 # Usage 
 
