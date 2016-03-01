@@ -23,9 +23,16 @@ My frustration eventually resulted in me creating this simple helper app that al
 # Installation
 If you already don't have python 3+, you need to install it as this is all it has been tested on.
 
-## Building reccommended requirements
+## Building reccommended requirements 
+
     $ sudo apt-get install python3
     $ sudo apt-get install python3-pip
+
+Please note that most of these dependencies are already met with a typical python3+ env... but just in case!
+
+    $ sudo pip install gtk
+    $ sudo pip install gi
+    $ sudo pip install subprocess
 
 # Usage 
 
@@ -44,5 +51,6 @@ The license to this software is governed directly by the <a href="http://www.gnu
 - http://blog.rumyhub.com/post/2015/01/31/ubuntu-fixing-cm-storm-devastator-keyboard-backlight-button.aspx
 - http://ubuntuforums.org/showthread.php?t=2208222
 - http://www.gnu.org/licenses/gpl-3.0.en.html
+- https://pip.pypa.io/en/stable/installing/
 
 
