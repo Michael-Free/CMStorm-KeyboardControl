@@ -31,7 +31,7 @@ Please note that most of these dependencies are already met with a typical pytho
     $ sudo pip install gtk
     $ sudo pip install gi
     $ sudo pip install subprocess
-### Method 1 - git
+## Method 1 - git
 
     $ git clone https://github.com/Michael-Free/CMStorm-KeyboardControl.git
     $ cd CMStorm-KeyboardControl
