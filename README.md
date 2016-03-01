@@ -21,7 +21,7 @@ My frustration eventually resulted in me creating this simple helper app that al
 - Unity, Gnome, or other GTK-based Desktop Environment.
 
 # Installation
-## Building reccommended requirements 
+## Building recommended requirements 
 
     $ sudo apt-get install python3
     $ sudo apt-get install python3-pip
@@ -31,11 +31,22 @@ Please note that most of these dependencies are already met with a typical pytho
     $ sudo pip install gtk
     $ sudo pip install gi
     $ sudo pip install subprocess
+## Method 1 - git
+
+    $ git clone https://github.com/Michael-Free/CMStorm-KeyboardControl.git
+    $ cd CMStorm-KeyboardControl
+    $ chmod +x cmstorm-led-ctrl.py
+
+### Test/Call CMStorm-KeyboardControl from Terminal
+
+    $ python3 cmstorm-led-ctrl.py 
+
+If all goes well you should see an icon that looks like an LED in your system tray.
+
+Click the 
+
 
 # Usage 
-
-# Donate
-- Bitcoin - 16p3FCa8CmhxSo3Vg2qPpznEC5He1kZHtt
 
 # License
 <p align="center">
@@ -43,7 +54,6 @@ Please note that most of these dependencies are already met with a typical pytho
 The license to this software is governed directly by the <a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3.0 License</a>.
 </p>
 # Reference 
-- http://www.tomshardware.com/answers/id-2611456/turn-storm-devastator-leds.html
 - http://community.coolermaster.com/index.php/topic/11526-is-cm-storm-devastator-led-gaming-keyboard-compatible-with-linux/
 - https://answers.launchpad.net/ubuntu/+source/linux/+question/241299
 - http://blog.rumyhub.com/post/2015/01/31/ubuntu-fixing-cm-storm-devastator-keyboard-backlight-button.aspx
