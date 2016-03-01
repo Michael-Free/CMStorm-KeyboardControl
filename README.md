@@ -32,7 +32,7 @@ Please note that most of these dependencies are already met with a typical pytho
     $ sudo pip install gi
     $ sudo pip install subprocess
 
-## Method 1 - git
+## Method 1 - Git
 #### Install/Download
 
     $ git clone https://github.com/Michael-Free/CMStorm-KeyboardControl.git
@@ -48,6 +48,12 @@ If all goes well you should see an icon that looks like an LED in your system tr
 <p align="center">
 <img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/Screenshot.png">
 </p>
+
+## Method 2 - Zip
+#### Install/Download
+Select the "Download ZIP" button at the top right of this page (http://cmstorm.michaelfree.net/) and Save the Zip file to the fold of your choice.  Once it is downloaded unzip the file:
+
+    $ unzip CMStorm-KeyboardControl.zip -d destination_folder
 
 # Usage 
 
