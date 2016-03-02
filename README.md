@@ -67,7 +67,13 @@ If all goes well you should see an icon that looks like an LED in your system tr
 <img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/Screenshot.png">
 </p>
 
-# Usage 
+# Use Case
+Manually running this script is still a comprimise, but the idea is to run this script at the time of login so you dont have to think about this ever again. 
+
+From a Terminal Window:
+
+    $ gnome-session-properties
+
 
 # License
 <p align="center">
