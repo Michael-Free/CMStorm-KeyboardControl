@@ -1,4 +1,4 @@
-# CMStorm Devastator Keyboard Control Tool
+# CMStorm Devastator Keyboard LED Control Tool
 A simple application to control the Cooler Master CM Storm Devastator LEDs via the System Tray in Ubuntu Linux.
 <p align="center">
 <img src = "https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/CMStormDevastator.png">
