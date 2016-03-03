@@ -75,13 +75,13 @@ From a Terminal Window:
     $ gnome-session-properties
 
 A window like this should appear:
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-00.png">
-
+</p>
 Click "Add" and you will have a new window appear:
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-1.png">
-
+</p>
 # License
 <p align="center">
 <img src="http://www.gnu.org/graphics/heckert_gnu.small.png"><br>
