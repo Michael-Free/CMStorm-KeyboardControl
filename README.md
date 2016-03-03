@@ -75,6 +75,7 @@ From a Terminal Window:
     $ gnome-session-properties
 
 A window like this should appear:
+
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-00.png">
 
 
