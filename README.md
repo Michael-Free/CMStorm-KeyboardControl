@@ -86,6 +86,18 @@ Give this program a name and comment for you to easily identify this later on:
 <p align="center">
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-2.png">
 </p>
+In the <b>Command:</b> text box, you will need to enter something like this to call the script login:
+
+    python3 /path/to/CMStorm-KeyboardControl-master/cmstorm-led-ctrl.py
+
+Obviously you will replace /path/to/ with where the script is located on your computer.
+
+Next you will want to reboot your computer and see if this whole thing works. either choose the shutdown from the user interface or type:
+
+    $ sudo reboot
+
+The next time you log in, the script should start. Cheers!
+
 # License
 <p align="center">
 <img src="http://www.gnu.org/graphics/heckert_gnu.small.png"><br>
