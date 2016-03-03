@@ -78,9 +78,9 @@ A window like this should appear:
 
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-00.png">
 
-Click add:
+Click "Add" and you will have a new window appear:
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-1.png">
 
 # License
 <p align="center">
