@@ -82,6 +82,10 @@ Click "Add" and you will have a new window appear:
 <p align="center">
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-1.png">
 </p>
+Give this program a name and comment for you to easily identify this later on:
+<p align="center">
+<img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-2.png">
+</p>
 # License
 <p align="center">
 <img src="http://www.gnu.org/graphics/heckert_gnu.small.png"><br>
