@@ -78,6 +78,9 @@ A window like this should appear:
 
 <img src="https://raw.githubusercontent.com/Michael-Free/CMStorm-KeyboardControl/master/gnome-session-00.png">
 
+Click add:
+
+<img src="">
 
 # License
 <p align="center">
